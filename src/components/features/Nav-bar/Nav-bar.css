@@ -1,0 +1,15 @@
+#nav_bar
+{
+    display: flex;
+    justify-content: center ;
+    justify-content: space-evenly;
+    
+}
+
+.btn_nav{
+    color: blue;
+}
+
+.btn_nav:hover{
+    color: white;
+}
